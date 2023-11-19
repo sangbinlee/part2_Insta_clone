@@ -22,13 +22,13 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # create a new repository on the command line
-
-echo "# part2_Insta_clone" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/sangbinlee/part2_Insta_clone.git
-git push -u origin main
+  
+  echo "# part2_Insta_clone" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/sangbinlee/part2_Insta_clone.git
+  git push -u origin main
 
 # part2_Insta_clone
