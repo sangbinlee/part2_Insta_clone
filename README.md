@@ -21,7 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-
 # create a new repository on the command line
 
 echo "# part2_Insta_clone" >> README.md
